@@ -1,22 +1,22 @@
 {
   "artigos": [
     {
-      "titulo": "Frame-Based Editing: Easing the Transition from Blocks to Text-Based Programming",
-      "autor": "Michael Kölling; Neil C. C. Brown; Amjad Altadmri",
-      "ano": 2015,
-      "link_pdf": "https://drive.google.com/file/d/1tAarZ-zUc5wvFcSH4bIolTYCMIO7J_ih/view"
+      "titulo": "Computing Education in the Era of Generative AI",
+      "autor": "Paul Denny et al.",
+      "ano": 2023,
+      "link_pdf": "https://arxiv.org/pdf/2306.02608.pdf"
     },
     {
-      "titulo": "Automated Grading and Feedback Tools for Programming Education: A Systematic Review",
-      "autor": " MARCUS MESSER; NEIL C. C. BROWN; MICHAEL KÖLLING; MIAOJING SHI",
-      "ano": 2024,
-      "link_pdf": "https://drive.google.com/file/d/1tAarZ-zUc5wvFcSH4bIolTYCMIO7J_ih/view?usp=sharing"
+      "titulo": "Generative AI in Computing Education: Perspectives of Students and Instructors",
+      "autor": "Cynthia Zastudil; Magdalena Rogalska; Christine Kapp; Jennifer Vaughn; Stephen MacNeil",
+      "ano": 2023,
+      "link_pdf": "https://arxiv.org/pdf/2308.04309.pdf"
     },
     {
-      "titulo": "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
-      "autor": "James Prather;Brent N. Reeves;Juho Leinonen;Stephen MacNeil;Arisoa S. Randrianasolo;Brett A. Becker;Ben Briggs;Jared Wright;Bailey Kimmel",
+      "titulo": "Imagining Computing Education Assessment after Generative AI",
+      "autor": "Stephen MacNeil et al.",
       "ano": 2024,
-      "link_pdf": "https://drive.google.com/file/d/1wAGNX-1tyiRNlCdVt9qityVXvnIEeKsm/view?usp=sharing"
+      "link_pdf": "https://arxiv.org/pdf/2401.04601.pdf"
     },
     {
       "titulo": "Computing-specific pedagogies and theoretical models",
