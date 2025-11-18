@@ -1,10 +1,10 @@
 {
   "datasheets": [
     {
-      "modelo": "ESP32-WROOM-32",
-      "fabricante": "Espressif Systems",
+      "modelo": "STM32",
+      "fabricante": "STMicroelectronics",
       "tipo": "Microcontrolador",
-      "link_pdf": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf"
+      "link_pdf": "https://handsontec.com/dataspecs/module/STM32F103%20module.pdf"
     },
     {
       "modelo": "LM7805",
