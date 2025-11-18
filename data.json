@@ -1,0 +1,22 @@
+{
+  "datasheets": [
+    {
+      "modelo": "ESP32-WROOM-32",
+      "fabricante": "Espressif Systems",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf"
+    },
+    {
+      "modelo": "LM7805",
+      "fabricante": "Texas Instruments",
+      "tipo": "Regulador de Tensão",
+      "link_pdf": "https://www.ti.com/lit/ds/symlink/lm340.pdf"
+    },
+    {
+      "modelo": "ARDUINO UNO R3",
+      "fabricante": "Arduino",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf"
+    }
+  ]
+}
