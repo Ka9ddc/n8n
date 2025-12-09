@@ -17,6 +17,132 @@
       "fabricante": "Arduino",
       "tipo": "Microcontrolador",
       "link_pdf": "https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf"
+    },
+    {
+      "modelo": "ESP32-WROOM-32",
+      "fabricante": "Espressif",
+      "tipo": "Microcontrolador Wi-Fi/Bluetooth",
+      "link_pdf": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf"
+    },
+    {
+      "modelo": "ATmega328P",
+      "fabricante": "Microchip",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328P-Data-Sheet-DS40002061A.pdf"
+    },
+    {
+      "modelo": "PIC16F877A",
+      "fabricante": "Microchip",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://ww1.microchip.com/downloads/en/DeviceDoc/39582b.pdf"
+    },
+    {
+      "modelo": "AMS1117-3.3",
+      "fabricante": "Advanced Monolithic Systems",
+      "tipo": "Regulador de Tensão",
+      "link_pdf": "https://www.advanced-monolithic.com/pdf/ds1117.pdf"
+    },
+    {
+      "modelo": "IRFZ44N",
+      "fabricante": "International Rectifier",
+      "tipo": "MOSFET N-Channel",
+      "link_pdf": "https://www.vishay.com/docs/91017/91017.pdf"
+    },
+    {
+      "modelo": "BC547",
+      "fabricante": "ON Semiconductor",
+      "tipo": "Transistor NPN",
+      "link_pdf": "https://www.onsemi.com/pdf/datasheet/bc547b-d.pdf"
+    },
+    {
+      "modelo": "TIP122",
+      "fabricante": "STMicroelectronics",
+      "tipo": "Transistor Darlington NPN",
+      "link_pdf": "https://www.st.com/resource/en/datasheet/tip122.pdf"
+    },
+    {
+      "modelo": "L298N",
+      "fabricante": "STMicroelectronics",
+      "tipo": "Driver de Motor",
+      "link_pdf": "https://www.st.com/resource/en/datasheet/l298.pdf"
+    },
+    {
+      "modelo": "ULN2803A",
+      "fabricante": "Texas Instruments",
+      "tipo": "Array de Transistores Darlington",
+      "link_pdf": "https://www.ti.com/lit/ds/symlink/uln2803a.pdf"
+    },
+    {
+      "modelo": "PC817",
+      "fabricante": "Sharp",
+      "tipo": "Optoacoplador",
+      "link_pdf": "https://www.sharpsde.com/fileadmin/products/optoelectronics/documents/pc817.pdf"
+    },
+    {
+      "modelo": "HC-SR04",
+      "fabricante": "EletronicFans",
+      "tipo": "Sensor Ultrassônico",
+      "link_pdf": "https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf"
+    },
+    {
+      "modelo": "DHT22 (AM2302)",
+      "fabricante": "Aosong",
+      "tipo": "Sensor de Temperatura e Umidade",
+      "link_pdf": "https://cdn-shop.adafruit.com/datasheets/DHT22.pdf"
+    },
+    {
+      "modelo": "BMP280",
+      "fabricante": "Bosch",
+      "tipo": "Sensor Barométrico",
+      "link_pdf": "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS002.pdf"
+    },
+    {
+      "modelo": "MPU6050",
+      "fabricante": "Invensense",
+      "tipo": "Acelerômetro/Giroscópio",
+      "link_pdf": "https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf"
+    },
+    {
+      "modelo": "74HC595",
+      "fabricante": "Nexperia",
+      "tipo": "Shift Register",
+      "link_pdf": "https://www.nexperia.com/products/content/datasheet/74HC_HCT595.pdf"
+    },
+    {
+      "modelo": "CD4017",
+      "fabricante": "Texas Instruments",
+      "tipo": "Contador Johnson",
+      "link_pdf": "https://www.ti.com/lit/ds/symlink/cd4017b.pdf"
+    },
+    {
+      "modelo": "NE555",
+      "fabricante": "Texas Instruments",
+      "tipo": "Timer",
+      "link_pdf": "https://www.ti.com/lit/ds/symlink/ne555.pdf"
+    },
+    {
+      "modelo": "SSD1306",
+      "fabricante": "Solomon Systech",
+      "tipo": "Controlador de Display OLED",
+      "link_pdf": "https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf"
+    },
+    {
+      "modelo": "NRF24L01+",
+      "fabricante": "Nordic Semiconductor",
+      "tipo": "Módulo RF 2.4GHz",
+      "link_pdf": "https://infocenter.nordicsemi.com/pdf/nRF24L01_PS_v1.0.pdf"
+    },
+    {
+      "modelo": "ESP8266 (ESP-12E)",
+      "fabricante": "Espressif",
+      "tipo": "Módulo Wi-Fi",
+      "link_pdf": "https://www.espressif.com/sites/default/files/documentation/esp8266-12e_product_sheet_en.pdf"
+    },
+    {
+      "modelo": "W25Q64FV",
+      "fabricante": "Winbond",
+      "tipo": "Memória Flash SPI 64Mbit",
+      "link_pdf": "https://www.winbond.com/resource-files/w25q64fv_revj_03272015.pdf"
     }
   ]
 }
