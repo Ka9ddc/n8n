@@ -1,52 +1,22 @@
 {
   "datasheets": [
     {
-      "modelo": "STM32F103xB",
+      "modelo": "STM32",
       "fabricante": "STMicroelectronics",
-      "tipo": "Microcontrolador (MCU)",
-      "link_pdf": "https://www.st.com/resource/en/datasheet/stm32f103c8.pdf"
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://handsontec.com/dataspecs/module/STM32F103%20module.pdf"
     },
     {
       "modelo": "LM7805",
       "fabricante": "Texas Instruments",
-      "tipo": "Regulador de Tensão Linear (+5V)",
-      "link_pdf": "https://www.ti.com/lit/ds/symlink/lm7805.pdf"
+      "tipo": "Regulador de Tensão",
+      "link_pdf": "https://www.ti.com/lit/ds/symlink/lm340.pdf"
     },
     {
-      "modelo": "Arduino UNO R3",
+      "modelo": "ARDUINO UNO R3",
       "fabricante": "Arduino",
-      "tipo": "Placa Microcontroladora",
+      "tipo": "Microcontrolador",
       "link_pdf": "https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf"
     },
-    {
-      "modelo": "NE555/LM555",
-      "fabricante": "Texas Instruments",
-      "tipo": "CI Temporizador de Precisão (Timer)",
-      "link_pdf": "https://www.ti.com/lit/ds/symlink/lm555.pdf"
-    },
-    {
-      "modelo": "BC547",
-      "fabricante": "ON Semiconductor",
-      "tipo": "Transistor NPN de Uso Geral",
-      "link_pdf": "https://www.onsemi.com/pub/Collateral/BC547-D.PDF"
-    },
-    {
-      "modelo": "LM358",
-      "fabricante": "STMicroelectronics",
-      "tipo": "Amplificador Operacional Duplo (Dual Op-Amp)",
-      "link_pdf": "https://www.st.com/resource/en/datasheet/lm358.pdf"
-    },
-    {
-      "modelo": "ATmega328P",
-      "fabricante": "Microchip Technology",
-      "tipo": "Microcontrolador (MCU) (Utilizado no Arduino UNO)",
-      "link_pdf": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328P-Datasheet-DS40002061A.pdf"
-    },
-    {
-      "modelo": "1N4007",
-      "fabricante": "ON Semiconductor",
-      "tipo": "Diodo Retificador de Uso Geral (1A)",
-      "link_pdf": "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"
-    }
   ]
 }
