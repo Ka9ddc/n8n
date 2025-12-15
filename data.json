@@ -17,6 +17,18 @@
       "fabricante": "Arduino",
       "tipo": "Microcontrolador",
       "link_pdf": "https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf"
+    },
+    {
+      "modelo": "ESP32-S3",
+      "fabricante": "Espressif Systems",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://cdn-shop.adafruit.com/product-files/5477/esp32-s3_datasheet_en.pdf"
+    },
+    {
+      "modelo": "ESP32-C6",
+      "fabricante": "Espressif Systems",
+      "tipo": "Microcontrolador",
+      "link_pdf": "https://files.seeedstudio.com/wiki/SeeedStudio-XIAO-ESP32C6/res/esp32-c6_datasheet_en.pdf"
     }
   ]
 }
